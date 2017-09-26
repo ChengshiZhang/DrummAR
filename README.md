@@ -1,8 +1,8 @@
-# drummAR
+# DrummAR
 
-drummAR is a virtual drumset built for Microsoft HoloLens during HoloHack 2017.
+DrummAR is a virtual drumset built for Microsoft HoloLens during HoloHack 2017.
 
-You can checkout drummAR in action from our [video demo](https://www.youtube.com/watch?v=Zas5JCjQb40&feature=youtu.be).
+You can checkout DrummAR in action from our [video demo](https://www.youtube.com/watch?v=Zas5JCjQb40&feature=youtu.be).
 
 ## How we built it
 We created a custom image target using Vuforia, testing several different designs to optimize target recognition. We then used a drum kit asset from Unity, and overlaid collider boxes on each drum head. On collision, each drum plays it's respective sound through a script we wrote in C#. We created sounds for snare drum, hi, medium and low toms, crash and ride cymbal in Ableton.

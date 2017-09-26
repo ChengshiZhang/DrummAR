@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>Drums_AR</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\MTC\Documents\Drums_AR\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\MTC\Documents\Drums_AR\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="drummar_left" size="0.050000 0.050000" />
+    <ImageTarget name="drummar_right" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>
